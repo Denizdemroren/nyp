@@ -1,0 +1,14 @@
+C:\Users\deniz\Desktop\nesne porjesi\ooproje\obj\Debug\ooproje.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\nesne porjesi\ooproje\obj\Debug\ooproje.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\nesne porjesi\ooproje\bin\Debug\ooproje.exe.config
+C:\Users\deniz\Desktop\nesne porjesi\ooproje\bin\Debug\ooproje.exe
+C:\Users\deniz\Desktop\nesne porjesi\ooproje\bin\Debug\ooproje.pdb
+C:\Users\deniz\Desktop\nesne porjesi\ooproje\obj\Debug\ooproje.exe
+C:\Users\deniz\Desktop\nesne porjesi\ooproje\obj\Debug\ooproje.pdb
+C:\Users\deniz\Desktop\nesne porjesi\bin\Debug\ooproje.exe.config
+C:\Users\deniz\Desktop\nesne porjesi\bin\Debug\ooproje.exe
+C:\Users\deniz\Desktop\nesne porjesi\bin\Debug\ooproje.pdb
+C:\Users\deniz\Desktop\nesne porjesi\obj\Debug\ooproje.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\nesne porjesi\obj\Debug\ooproje.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\nesne porjesi\obj\Debug\ooproje.exe
+C:\Users\deniz\Desktop\nesne porjesi\obj\Debug\ooproje.pdb
